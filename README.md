@@ -1,2 +1,0 @@
-# InfoHargaa
-UTS PEMROGRAMAN WEB
